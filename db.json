@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "title": "work",
+      "price": "65",
+      "description": "how to show your work",
+      "id": 3
+    },
+    {
+      "title": "work2",
+      "price": "65",
+      "description": "how to show your work",
+      "id": 3
+    },
+    {
+      "title": "work3",
+      "price": "65",
+      "description": "how to show your work",
+      "id": 3
+    }
+  ]
+}
